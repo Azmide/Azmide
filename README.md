@@ -1,74 +1,37 @@
-<h1 align="center">Hi 👋, I'm Algi Fari</h1>
-<h3 align="center">Minecraft Server Developer • Backend Enthusiast • DevOps & Networking Learner</h3>
-
----
-
-## 🚀 About Me
-
-I'm a tech enthusiast from Indonesia who loves building and optimizing systems.
-
-- 🎮 Minecraft Server Developer (Survival / RPG / Economy)
-- ⚙️ Experienced with server setup, optimization & plugin configuration
-- 🌐 Interested in Networking & DevOps
-- 🐧 Linux user who enjoys working with VPS & cloud environments
-- 💻 Backend learner (Node.js, Java, PHP)
-- 🧠 Familiar with multiple programming languages & software distributions
-
-I enjoy building, experimenting, breaking things, and fixing them better than before.
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Programming Languages
-- Java
-- JavaScript (Node.js)
-- PHP
-- Python (basic)
-- HTML & CSS
-
-### 🎮 Minecraft Ecosystem
-- Purpur / Paper / LeavesMC
-- Denizen Scripting
-- PlaceholderAPI
-- Lands
-- Votifier
-- Custom Economy & Reward Systems
-
-### 🌐 DevOps & Networking
-- Linux (Ubuntu / Debian based)
-- VPS Management (AWS / DigitalOcean)
-- Basic Networking
-- Git & GitHub
-- Server Security & Optimization
-
----
-
-## 🔥 Current Focus
-
-- Building scalable Minecraft server systems
-- Improving backend development skills
-- Learning deeper DevOps practices
-- Exploring infrastructure & automation
-
----
-
-## 📈 2026 Goals
-
-- 🚀 Launch a stable and unique RPG Minecraft server
-- ☁️ Build my own hosting service
-- 💻 Become a solid backend & infrastructure developer
-- 🌍 Grow a strong tech community
-
----
-
-## 📫 Connect With Me
-
-- 💬 Ask me about Minecraft Servers, VPS, Linux, or Backend Development
-- 🌍 Based in Indonesia
-
----
+<h1 align="center">Hey, I'm Aditia 👋</h1>
 
 <p align="center">
-  ⚡ Build systems. Optimize performance. Automate everything.
+  💻 Developer from Indonesia — passionate about <b>Minecraft Server Engineering</b>, <b>Backend Development</b>, and <b>DevOps</b>.<br>
+  Experienced in Linux environments, VPS management, networking, and system optimization.<br>
+  I enjoy building scalable systems, automating workflows, and optimizing performance 🚀
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/a8/e5/9c/a8e59cd6a342cc3df98f793229f8bc91.gif" width="400"/>
+</p>
+
+<h3 align="center">⚙️ Tech Stack</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,nodejs,js,php,py,linux,docker,git" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AzmiiD&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzmiiD&layout=compact&theme=radical" height="165" />
+</p>
+
+<p align="center">
+  <b>“Code it. Deploy it. Optimize it.”</b>
+</p>
+
+---
+
+<h3 align="center">📫 Contact Me</h3>
+
+<p align="center">
+  💬 Discord: <b>azumi_z</b><br>
+  📧 Email: <a href="mailto:algif304@gmail.com">algif304@gmail.com</a>
 </p>
